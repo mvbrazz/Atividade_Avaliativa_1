@@ -1,0 +1,15 @@
+{
+  "name": "ativade_avaliativa_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Atividade_Avaliativa_1.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.3.1",
+    "node": "^17.0.1"
+  }
+}
