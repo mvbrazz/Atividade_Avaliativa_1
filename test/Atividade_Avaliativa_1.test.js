@@ -1,4 +1,4 @@
-const {FiltroMaior2000} = require('../lib/Atividade_Avaliativa_1');
+const {FiltroMaior2000,FiltroGeral} = require('../lib/Atividade_Avaliativa_1');
 describe('Utils', () => {
     describe('Faturas', () => {
         test('Se o valor da fatura for menor que 2000', () => {
