@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1636572920999" clover="3.2.0">
-  <project timestamp="1636572920999" name="All files">
-    <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1" elements="6" coveredelements="6" complexity="0" loc="3" ncloc="3" packages="1" files="1" classes="1"/>
+<coverage generated="1636573723713" clover="3.2.0">
+  <project timestamp="1636573723713" name="All files">
+    <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1" elements="7" coveredelements="7" complexity="0" loc="4" ncloc="4" packages="1" files="1" classes="1"/>
     <file name="Atividade_Avaliativa_1.js" path="C:\Users\mvbra\Desktop\Ativade_Avaliativa_1\lib\Atividade_Avaliativa_1.js">
-      <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <line num="2" count="1" type="stmt"/>
       <line num="3" count="5" type="cond" truecount="2" falsecount="0"/>
       <line num="4" count="3" type="stmt"/>
       <line num="8" count="1" type="stmt"/>

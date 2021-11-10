@@ -19,7 +19,7 @@ describe('Utils', () => {
                 {codigo:4,valor:2200,data:12,cliente_id:4}
             ];
 
-            var resposta = faturas.filter(FiltroMaior2000,clientes);
+            var resposta = faturas.filter(FiltroMaior2000);
             expect(resposta.length).toBe(3);
         });
  
